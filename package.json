@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "accordion-collapse-react-native": "^0.1.10",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "fusioncharts": "^3.13.4",
     "native-base": "^2.12.1",
     "react": "16.8.3",
